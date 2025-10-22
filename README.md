@@ -12,9 +12,11 @@ Serine Atoum , githup username : siiiirine
 
 ## Live Demo
 
-🔗 [View Website](ADD LINK)
+🔗 https://elorabiwassim.github.io/G7Team2-Portfolio/
 
 ## About
 
 This website presents our team’s collective work, individual profiles, and featured projects.  
 It serves as a space to highlight our collaboration, creativity, and technical expertise.
+
+#Team Retrospective
